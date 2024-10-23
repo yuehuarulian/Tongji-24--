@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>source/subway_info.txt</file>
+        <file>source/R.jfif</file>
+        <file>source/zoom_in.jfif</file>
+        <file>source/zoom_out.jfif</file>
+        <file>source/edge.jfif</file>
+        <file>source/line.jfif</file>
+        <file>source/station.jfif</file>
+        <file>source/bg.jpg</file>
+        <file>source/bg.jfif</file>
+    </qresource>
+</RCC>
